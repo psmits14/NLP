@@ -1,0 +1,51 @@
+﻿id,text,gold_raw,gold,n_words
+s00050,"W pokoju i łazience czysto , lecz klimatyzacja mało wydajna , a w upalny wieczór była wręcz niewystarczająca do obniżenia temp . w pokoju .",z_amb,AMB,25
+s00051,Czystosc na osrodku i w pokojach naprawde bardzo dobra .,z_plus_m,POZ,10
+s00052,"Na samo przyjęcie zamówienia czekali śmy ok 20min , na podanie dan kolejne 40 .",z_minus_m,NEG,15
+s00053,"Kolejne spotkania pomagały mi zrozumieć z czego to wynika , nad czym muszę pracować , kim tak naprawdę jestem .",z_plus_m,POZ,20
+s00054,"W naglych sytuacjach istnieje możliwość kontaktu z dr Borzęcką , nie bagatelizuje ona zglaszanych problemów .",z_plus_m,POZ,16
+s00055,"Przeczytała m różne opinie o lekarzach w Łodzi i sugerując się opiniami właśnie z tego miejsca , wybrała m Panią Sobieszczańską .",z_zero,NEU,22
+s00056,"Wcześniej również napisała m maila , aby upewnić się , że ośrodek uczestniczy w programie i otrzymała m potwierdzenie , że restauracja serwuje dania bezglutenowe .",z_zero,NEU,26
+s00057,Każdy pokój posiada balkon .,z_plus_m,POZ,5
+s00058,Raz mi upadł na rozgrzanego grilla nawet .,z_minus_m,NEG,8
+s00059,"Niestety , żyjemy w Polsce , gdzie zapisy do specjalistów kończą się w sierpniu i w listopadzie NIGDZIE już nie można się dostać .",z_zero,NEU,24
+s00060,Zastrzegam że nie wiem jak wyglądają inne pokoje ale pokój ośmioosobowy w którym nas umieszczono mieści się w suterenie gdzie ( szczególnie wieczorem ) było niemiłosiernie gorąco i duszno ( pomimo dużego wentylatora zajmującego środek pokoju ) . .,z_minus_m,NEG,39
+s00061,Polecam zwłaszcza zakochanym parom .,z_plus_m,POZ,5
+s00062,Co do samego hotelu to w miarę utrzymują czystość .,z_amb,AMB,10
+s00063,"Obsługa była przemiła , na stole w pokoju czekały na nas słodkości ( przepyszne ! ) .",z_plus_m,POZ,17
+s00064,"Przez to sprawiła na mnie wrażenie niezbyt zainteresowanej tym , co robi , bo tylko tak można to wytłumaczyć .",z_minus_m,NEG,20
+s00065,"Raz zniecierpliwiona odlozyla słuchawkę w polowie rozmowy , innym razem nie chciala mnie zapisać , bo w danym tygodniu nie ma już miejsc ( poprosilam o następny tydzień - jaki problem ? ) .",z_minus_m,NEG,34
+s00066,"Obsługa hostelu jest tragiczna nie mają pojęcia o prowadzeniu czegoś takiego , zmienia warunki pobytu po dotarciu do hostelu , a także w jego TRAKCIE .",z_minus_m,NEG,26
+s00067,Przez całe pół roku użył em go tylko raz jako pendriva .,z_amb,AMB,12
+s00068,Śniadanie na to co zostało podane bardzo drogie .,z_minus_m,NEG,9
+s00069,"Basen , morze rzut kamieniem od hotelu , bezpłatny parking , mini supermarkety w pobliżu , czysty pokój , nowoczesna czysta łazienka , dobre , obfite śniadanie , bardzo miły i pomocny personel a do tego zapach sosen i pobliskie góry to niewątpliwe zalety hotelu i jego położenia .",z_plus_m,POZ,49
+s00070,"Podsumowując pan doktor jest świetnym specjalistą , chociaż nie zawsze jest delikatny , ale za cene wyzdrowienia chwile przynajmniej w moim wypadku mogła m pocierpiec .",z_amb,AMB,26
+s00071,Cały czas psuł się głośnik i płyta główna .,z_minus_m,NEG,9
+s00072,"Wszystko zależy od stanu polskiej gospodarki , czyli krajowego popytu na noclegi , tempa zawieranych transakcji lub wycofywania ofert sprzedaży obiektów , a w dalszej kolejności od ewentualnego wzrostu liczby turystów zagranicznych .",z_zero,NEU,33
+s00073,"Miała być szybka matryca idealna do transmisji sportowych ( niestety musimy oglądać z włączonym upłynniaczem PNM i z efektem teatru , albo po wyłączeniu PNM obraz smuży i są artefakty ) .",z_minus_m,NEG,32
+s00074,Do tej pory używał em wiosełek firmy Head w których wykonane zaczepy gumowe są bardzo trwałe i mocne .,z_zero,NEU,19
+s00075,"Jeśli szukasz naprawdę dobrego lekarza , to już nie szukaj !",z_plus_m,POZ,11
+s00076,Hotel położony w zacisznym miejscu w środku lasu .,z_plus_m,POZ,9
+s00077,Nie jest to miejsce do którego by m chciała wrócić .,z_minus_m,NEG,11
+s00078,Gosciu jest nieprzewidywalny ! ! ! !,z_amb,AMB,7
+s00079,"Na początku miałem wątpliwości co do tych dużych ramek , ale okazało się , że niesamowicie pomagają w trzymaniu telefonu w dosłownie w każdej pozycji .",z_plus_m,POZ,26
+s00080,Hotel jak najbardziej spełnił moje oczekiwanie dotyczące komfortu i wygody .,z_plus_m,POZ,11
+s00081,"Teraz jednak wiem , że dzięki Jej doświadczeniu oraz dobrej komunikacji z całym zespołem wszystko zakończyło się dobrze , a decyzja o cięciu została podjęta w odpowiednim momencie .",z_plus_m,POZ,29
+s00082,"Ale najistotniejsze było to , że spotykali śmy tam w latach 70 . wspaniałych ludzi , którzy otwierali przed nami horyzonty .",z_zero,NEU,22
+s00083,"W ostatnim czasie z przykrością stwierdziła m , że czekolada Oryginalna Mleczna , tzw . fioletowa , ma zmienioną na niekorzyść recepturę .",z_minus_m,NEG,23
+s00084,Tylko jeden lód na jedną osobę więc jak masz małe dziecko to chodzisz dwa razy .,z_minus_m,NEG,16
+s00085,Te najtańsze zupełnie zadowalające .,z_plus_m,POZ,5
+s00086,"plusem że na basenie jest bardzo cieplutko i nie ma dyskomfortu jak się wychodzi z wody , Sauny super .",z_plus_m,POZ,20
+s00087,W dzień prowadzono jakieś prace remontowe i warkot wiertarki doprowadzał mnie do szału .,z_minus_m,NEG,14
+s00088,Dopiero pani Doktor poprawnie dobrała mi odpowiednie leczenie i skutecznie mi pomogła !,z_plus_m,POZ,13
+s00089,Obsługa ignoruje uwagi na ten temat .,z_minus_m,NEG,7
+s00090,Już nie tak miły jak za pierwszym razem .,z_minus_m,NEG,9
+s00091,"Tłumaczyła m , że asymetria migdałów występuje od lat , widziało ją już kilku lekarzy , a dziecko nie narzeka na gardło .",z_zero,NEU,23
+s00092,"Głośno , bałagan , brudno , nie można się doprosić o sprzątanie , basen jest brudny i ma wystające elementy , na których można się zranić .",z_minus_m,NEG,27
+s00093,Montaż - koszmar .,z_minus_m,NEG,4
+s00094,Stawia niesłuszne diagnozy .,z_minus_m,NEG,4
+s00095,"Pokoje funkcjonalne , czyste .",z_plus_m,POZ,5
+s00096,Takiego pokoju nie widziała m jeszcze nigdy w żadnym hotelu : (,z_minus_m,NEG,12
+s00097,I przez to wysłał mnie na poprawkę .,z_minus_m,NEG,8
+s00098,Pozostało zainstalować świeży system i sprzedać przez allegro .,z_minus_m,NEG,9
+s00099,"Po 2 miesiącach jej "" leczenia "" , kiedy wszystko miało już być w porządku , poszła m do innego lekarza na konsultacje , gdzie okazało się , że nadżerka nie jest wyleczona w ogóle .",z_minus_m,NEG,36

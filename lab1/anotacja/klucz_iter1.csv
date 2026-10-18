@@ -1,0 +1,51 @@
+﻿id,text,gold_raw,gold,n_words
+s00000,"Co prawda zabieg jest drogi , cieszę się , że zdecydowała m się na tę biopsję , a nie na operacyjne usunięcie łagodnego guza piersi .",z_zero,NEU,26
+s00001,"Co do minusów to myślę , że po prostu ich tu nie znajdziemy .",z_plus_m,POZ,14
+s00002,"ubogie menu , a na pizze trzeba bylo czekac ok 1h .",z_minus_m,NEG,12
+s00003,"Lekarz stara się cały czas dominować nad pacjentem , okazując swą wyższość i traktując go z góry , bardzo nieuprzejmy .",z_minus_m,NEG,21
+s00004,"Pani Doktor zajęła się mną holistycznie , opierając się na założeniu , że należy leczyć cały organizm , a nie tylko jego chorą część .",z_plus_m,POZ,25
+s00005,"Stasio . . . dużo kursów z nim miał em , wszystkie pozaliczał em w 1 terminie .",z_plus_m,POZ,18
+s00006,"Decydując się na operację ponosimy ryzyko na które sami się godzimy ,",z_zero,NEU,12
+s00007,Na badania kieruje co miesiąc to jest duży plus .,z_plus_m,POZ,10
+s00008,"W nocy z 30 na 31 marca Rodzice mieli bardzo poważny wypadek samochodowy , więc musiała m rezerwację anulować i wtedy zaczęły się kłopoty .",z_minus_m,NEG,25
+s00009,"Obiadokolacje były b . zróżnicowane , codziennie coś innego , zawsze była rybka i kilka dań do wyboru , były też dania typowo maltańskie jak królik , Część dań nakłada kelner .",z_plus_m,POZ,32
+s00010,Jestem ponad rok po operacji korekty wargi i nosa .,z_zero,NEU,10
+s00011,Sprzątanie sprowadzało się do wymiany ręczników oraz opróżnienia koszy .,z_minus_m,NEG,10
+s00012,"Hotel jak na TUI bardzo słabo , cena powinna być maksymalnie 1300 / osoby .",z_minus_m,NEG,15
+s00013,"Gorzej jeśli mamy problem , jakąś dolegliwość z którą musimy sobie poradzić i oczekujemy pomocy , Pani doktor Szymborska nie jest najlepszym wyborem .",z_minus_m,NEG,24
+s00014,Na NFZ internista więcej pomoże niż on .,z_minus_m,NEG,8
+s00015,w trakcie pracy pojawiają się nieoczekiwane wyjątki choć jeszcze nie stracił em danych .,z_minus_m,NEG,14
+s00016,Więc nie ma kiedy na zadawanie pytań pacjentowi w celu znalezienia przyczyny dolegliwości .,z_minus_m,NEG,14
+s00017,Dowiedział em się o dokt .,z_zero,NEU,6
+s00018,"Babka potrafi nawet zapowiedziec z tygodnia na tydzien , ze bedzie pytac ta i ta grupe , wiec wylatywanie z zajec odbywa sie tylko """,z_plus_m,POZ,25
+s00019,Jedzenie w restauracji przecietne i drogie .,z_minus_m,NEG,7
+s00020,Wiec nastepnym razem napewno wybierzemy inny hotel .,z_minus_m,NEG,8
+s00021,Jeżeli jest sztyca umieszczona pionowo ( a tak wynika ze specyfikacji producenta ) to powinna działać bez zarzutu .,z_amb,AMB,19
+s00022,"Ot zabawka dla zaślepionych , próżnych dzieci .",z_zero,NEU,8
+s00023,Moja Plyta Po 5 Tygodniach Prawidlowego uzytkowania i Prawidlowego podlaczenia spalila sie .,z_minus_m,NEG,13
+s00024,Mimo braku pryszniców .,z_minus_m,NEG,4
+s00025,Zarezerwowali śmy te wakacje dość późno i za niesamowitą cenę .,z_plus_m,POZ,11
+s00026,To dobre miejsce na wyjazd low - budget .,z_plus_m,POZ,9
+s00027,"Jeśli zapomni się go ponownie ustawić , to powstaje następujące zjawisko .",z_amb,AMB,12
+s00028,Thomas Suedhof pracował z kolei na komórkach nerwowych .,z_zero,NEU,9
+s00029,Baseny : dużo i rozmaicie na duży plus czyste ! ! ! !,z_plus_m,POZ,13
+s00030,Widocznie wystarczyła tylko gastroskopia .,z_zero,NEU,5
+s00031,"On jest nastawjony tylko na operację , nie leczenie .",z_minus_m,NEG,10
+s00032,"Dużym minusem są pokrywki , których konstrukcja uniemożliwia ich doczyszczenie .",z_minus_m,NEG,11
+s00033,"Na początku miłe zaskoczenie , bo hotel zadzwonił po rezerwacji i poinformował nas że będą w tym czasie 2 wesela więc możemy oczywiście zrezygnować lub umieszczą nas jak najdalej od wesela .",z_plus_m,POZ,32
+s00034,Jeśli nie zaliczył eś na I terminie to bierze pod uwagę obecności .,z_zero,NEU,13
+s00035,"A płacąc 120zł za konsultację laryngologiczną spodziewała m się , że lekarz zajrzy nie tylko do gardła , ale i nosa oraz uszu , przeprowadzi gruntowny wywiad , zaproponuje różne metody leczenia i wspólnie z pacjentem wybierze optymalną .",z_minus_m,NEG,39
+s00036,Tamta wizyta nadal boli - była tak nieprzyjemna i zaskakująca … brak słów na opisanie spustoszenia jakie wywołały w nas tamta diagnoza i zachowanie dr . Żaka .,z_minus_m,NEG,28
+s00037,Mysz jak na Logitecha wykonana oczywiście bardzo dobrze .,z_plus_m,POZ,9
+s00038,Żeby stworzyć drinka sama muszę lać sobie dramatycznej jakości sok z dystrybutora .,z_minus_m,NEG,13
+s00039,Internet płatny ( 4 euro za godz . lub 30 za tydzień ) - ale ostatecznie to mają być wakacje .,z_minus_m,NEG,21
+s00040,O jakimkolwiek komforcie nie ma mowy .,z_minus_m,NEG,7
+s00041,"Jego wizyta nałożyła się na godzinę mojej wizyty - nie mogła m więc wejść pomimo tego , że była na czas .",z_minus_m,NEG,22
+s00042,"jest to przecież środek chemiczny usuwający kamień , a więc inwazyjny .",z_minus_m,NEG,12
+s00043,"Z kolei artemizyna , nad którą pracowała noblistka Youyou Tu , to lek na malarię .",z_zero,NEU,16
+s00044,Mielismy wykupiony pokój w tej lepszej opcji z którego byli śmy bardzo zadowoleni .,z_plus_m,POZ,14
+s00045,"Plaża piaszczysta czysta zadbana w morzu kamienie , leżaki i parasole darmowe .",z_plus_m,POZ,13
+s00046,"Książeczka bardzo spodobała się dziecku : jest kolorowa , szeleszcząca , przyciąga uwagę .",z_plus_m,POZ,14
+s00047,"Z drugiej strony nawet mnie nie zbadał ginekologicznie , nie spytał kiedy była m badana , dał skierowanie na mammografię ( tu o termin ostatniej zapytał ) i dal receptę i już .",z_minus_m,NEG,33
+s00048,"Do ucha trąbka i pogrzebanie haczykiem drucianym , na koniec antybiotyk .",z_minus_m,NEG,12
+s00049,"Pokoje bardzo przytulne , z dywanami zamiast standardowej , hotelowej wykładziny .",z_plus_m,POZ,12
