@@ -23,7 +23,7 @@ s00020,Wiec nastepnym razem napewno wybierzemy inny hotel .,NEG,,iter1,NEG,8,0,0
 s00021,Jeżeli jest sztyca umieszczona pionowo ( a tak wynika ze specyfikacji producenta ) to powinna działać bez zarzutu .,NEU,bez=ODW,iter1,AMB,19,0,0,1,True
 s00022,"Ot zabawka dla zaślepionych , próżnych dzieci .",NEG,,iter1,NEU,8,0,0,0,False
 s00023,Moja Plyta Po 5 Tygodniach Prawidlowego uzytkowania i Prawidlowego podlaczenia spalila sie .,NEG,,iter1,NEG,13,0,0,0,False
-s00024,Mimo braku pryszniców .,NEU,brak=ODW,iter1,NEG,4,0,0,0,False
+s00024,Mimo braku pryszniców .,NEU,braku=ODW,iter1,NEG,4,0,0,1,True
 s00025,Zarezerwowali śmy te wakacje dość późno i za niesamowitą cenę .,POZ,dość=OSL; niesamowitą=WZM,iter1,POZ,11,1,1,0,True
 s00026,To dobre miejsce na wyjazd low - budget .,POZ,,iter1,POZ,9,0,0,0,False
 s00027,"Jeśli zapomni się go ponownie ustawić , to powstaje następujące zjawisko .",NEU,,iter1,AMB,12,0,0,0,False
@@ -50,7 +50,7 @@ s00047,"Z drugiej strony nawet mnie nie zbadał ginekologicznie , nie spytał ki
 s00048,"Do ucha trąbka i pogrzebanie haczykiem drucianym , na koniec antybiotyk .",NEU,,iter1,NEG,12,0,0,0,False
 s00049,"Pokoje bardzo przytulne , z dywanami zamiast standardowej , hotelowej wykładziny .",POZ,bardzo=WZM,iter1,POZ,12,1,0,0,True
 s00050,"W pokoju i łazience czysto , lecz klimatyzacja mało wydajna , a w upalny wieczór była wręcz niewystarczająca do obniżenia temp . w pokoju .",AMB,mało=OSL;wręcz=WZM,iter2,AMB,25,1,1,0,True
-s00051,Czystosc na osrodku i w pokojach naprawde bardzo dobra .,POZ,naprawdę=WZM;bardzo=WZM,iter2,POZ,10,1,0,0,True
+s00051,Czystosc na osrodku i w pokojach naprawde bardzo dobra .,POZ,naprawde=WZM;bardzo=WZM,iter2,POZ,10,2,0,0,True
 s00052,"Na samo przyjęcie zamówienia czekali śmy ok 20min , na podanie dan kolejne 40 .",NEG,,iter2,NEG,15,0,0,0,False
 s00053,"Kolejne spotkania pomagały mi zrozumieć z czego to wynika , nad czym muszę pracować , kim tak naprawdę jestem .",POZ,tak naprawdę=WZM,iter2,POZ,20,2,0,0,True
 s00054,"W naglych sytuacjach istnieje możliwość kontaktu z dr Borzęcką , nie bagatelizuje ona zglaszanych problemów .",POZ,nie=ODW,iter2,POZ,16,0,0,1,True
@@ -68,7 +68,7 @@ s00065,"Raz zniecierpliwiona odlozyla słuchawkę w polowie rozmowy , innym raze
 s00066,"Obsługa hostelu jest tragiczna nie mają pojęcia o prowadzeniu czegoś takiego , zmienia warunki pobytu po dotarciu do hostelu , a także w jego TRAKCIE .",NEG,nie=ODW,iter2,NEG,26,0,0,1,True
 s00067,Przez całe pół roku użył em go tylko raz jako pendriva .,NEU,tylko=OSL,iter2,AMB,12,0,1,0,True
 s00068,Śniadanie na to co zostało podane bardzo drogie .,NEG,bardzo=WZM,iter2,NEG,9,1,0,0,True
-s00069,"Basen , morze rzut kamieniem od hotelu , bezpłatny parking , mini supermarkety w pobliżu , czysty pokój , nowoczesna czysta łazienka , dobre , obfite śniadanie , bardzo miły i pomocny personel a do tego zapach sosen i pobliskie góry to niewątpliwe zalety hotelu i jego położenia .",POZ,bardzo=WZM;niewątpliwie=WZM,iter2,POZ,49,1,0,0,True
+s00069,"Basen , morze rzut kamieniem od hotelu , bezpłatny parking , mini supermarkety w pobliżu , czysty pokój , nowoczesna czysta łazienka , dobre , obfite śniadanie , bardzo miły i pomocny personel a do tego zapach sosen i pobliskie góry to niewątpliwe zalety hotelu i jego położenia .",POZ,bardzo=WZM;niewątpliwe=WZM,iter2,POZ,49,2,0,0,True
 s00070,"Podsumowując pan doktor jest świetnym specjalistą , chociaż nie zawsze jest delikatny , ale za cene wyzdrowienia chwile przynajmniej w moim wypadku mogła m pocierpiec .",AMB,chociaż=OSL;nie=ODW;przynajmniej=OSL,iter2,AMB,26,0,2,1,True
 s00071,Cały czas psuł się głośnik i płyta główna .,NEG,Cały czas=WZM,iter2,NEG,9,2,0,0,True
 s00072,"Wszystko zależy od stanu polskiej gospodarki , czyli krajowego popytu na noclegi , tempa zawieranych transakcji lub wycofywania ofert sprzedaży obiektów , a w dalszej kolejności od ewentualnego wzrostu liczby turystów zagranicznych .",NEU,ewentualnego=OSL,iter2,NEU,33,0,1,0,True
@@ -104,7 +104,7 @@ s00101,Po pierwszych dziwnych ukąszeniach idzie z drinkiem na taras .,NEU,,resz
 s00102,"W pokoju zabaw dla dzieci brudno , wykładzina zapuszczona .",NEG,,reszta_A,NEG,10,0,0,0,False
 s00103,"System z początku wymaga przyzwyczajenia do niektórych opcji , jest bardzo rozbudowany .",NEU,bardzo=WZM,reszta_A,AMB,13,1,0,0,True
 s00104,Trafił em z bólem dolnej części kręgosłupa .,NEU,,reszta_A,NEU,8,0,0,0,False
-s00105,Bylismy drugim hotelem który objeżdżała rezydentka a na 20 chętnych zostaly juz tylko 4 miejsca .,NEG,już=WZM;tylko=OSL,reszta_A,NEG,16,0,1,0,True
+s00105,Bylismy drugim hotelem który objeżdżała rezydentka a na 20 chętnych zostaly juz tylko 4 miejsca .,NEG,juz=WZM;tylko=OSL,reszta_A,NEG,16,1,1,0,True
 s00106,"Ogólnie może być ale te drobiazgi np . podarte ręczniki kąpielowe albo stwierdzenie menedżera baru w lobby "" cytryna do gin & ton i",AMB,Ogólnie=OSL,reszta_A,AMB,24,0,1,0,True
 s00107,"Jakby m dzisiaj z obecną wiedzą miał cokolwiek kupować , to by m wybrał chyba może poprzeczki Atera , z tego co napisali w instrukcjach można wrzucić na nią 100 kg i podobno robią oryginały dla Audi .",POZ,chyba=OSL;może=OSL;podobno=OSL,reszta_A,AMB,38,0,3,0,True
 s00108,Nie ogładała mi ucha nic .,NEG,Nie=ODW;nic=WZM,reszta_A,NEG,6,1,0,1,True
@@ -134,8 +134,8 @@ s00131,"W sporcie – co dobitnie pokazał też dotychczasowy przebieg turnieju 
 s00132,"Bo minął odpowiedni okres , a druga pierś była czysta .",NEU,,reszta_A,NEU,11,0,0,0,False
 s00133,"Sposób oceniania zadan na kole bardzo mglisty i niejasny . . . ( potrafi zaliczyć jak napisze się jakieś bzdury , jak również potrafi niezaliczyć mając prawie wszytsko dobrze ) Zadania na kole podobne do tych co rok wcześniej i tych co się znajdują w skrypcie .",AMB,bardzo=WZM;prawie=OSL,reszta_A,NEG,47,1,1,0,True
 s00134,Podsumowując - NIE polecam !,NEG,NIE=ODW,reszta_A,NEG,5,0,0,1,True
-s00135,"A cene za fale , ma naprawde wysoka .",NEG,naprawdę=WZM,reszta_A,NEG,9,0,0,0,False
-s00136,Zdarzają się też po prostu szkodliwe dla zdrowia .,NEG,po prostu=WSL,reszta_A,NEU,9,0,0,0,False
+s00135,"A cene za fale , ma naprawde wysoka .",NEG,naprawde=WZM,reszta_A,NEG,9,1,0,0,True
+s00136,Zdarzają się też po prostu szkodliwe dla zdrowia .,NEG,po prostu=WZM,reszta_A,NEU,9,2,0,0,True
 s00137,Wybór pierogów - tragedia .,NEG,,reszta_A,NEG,5,0,0,0,False
 s00138,Naukowcy z Uniwersytetu Medycznego im . Piastów Śląskich we Wrocławiu i Zakładu Antropologii Polskiej Akademii Nauk ( Wrocław ) zbadali nasilenie objawów andropauzalnych u 232 mężczyzn ze skurczową NS w wieku 40 - 80 lat i 362 zdrowych mężczyzn w tym samym wieku .,NEU,,reszta_A,NEU,44,0,0,0,False
 s00139,"Ale zdrada nie jest tu wywołana małżeńską nudą , rutyną , brakiem czasu czy miłości .",NEU,nie=ODW,reszta_A,NEU,16,0,0,1,True
@@ -146,7 +146,7 @@ s00143,"Co tym bardziej dziwi , że wszystko działa .",AMB,bardziej=WZM;wszystk
 s00144,A spać nie idzie : wpada się w dziurę !,NEG,nie=ODW,reszta_A,NEG,10,0,0,1,True
 s00145,"Okazało się jednak , że kuchnia nie posiadała tylu pracowników , żeby przygotować posiłek z karty - powiedziano nam , że będziemy czekać minimum 40 minut .",NEG,nie=ODW;minimum=WZM,reszta_A,NEG,27,1,0,1,True
 s00146,"Ogólnie hotel oceniam pozytywnie , dobre pierwsze wrażenie .",POZ,Ogólnie=OSL,reszta_A,POZ,9,0,1,0,True
-s00147,"Jeśli chodzi o pierwszy kurs - troche nudnawy wykład , na którym sporo osób chcąc urozmaicić sobie czas spożywała wysokoprocentowe napoje wyskokowe ; ) Obecność była sprawdzana , ale nie miała wpływu na ocene .",AMB,trochę=OSL;sporo=WZM;nie=ODW,reszta_A,AMB,35,1,0,1,True
+s00147,"Jeśli chodzi o pierwszy kurs - troche nudnawy wykład , na którym sporo osób chcąc urozmaicić sobie czas spożywała wysokoprocentowe napoje wyskokowe ; ) Obecność była sprawdzana , ale nie miała wpływu na ocene .",AMB,troche=OSL;sporo=WZM;nie=ODW,reszta_A,AMB,35,1,1,1,True
 s00148,"Strefa z basenem bardzo ciepła , sama woda już nie do końca , może dlatego basen generalnie pusty , więc miło się pływało .",AMB,bardzo=WZM;nie=ODW;może=OSL;generalnie=OSL,reszta_A,POZ,24,1,2,1,True
 s00149,"Przed tym jednak zgłosiła m sie do dr Bocheńskiej ( jednej z najlepszych terapeutek jesli chodzi o problemy z jedzeniem ) , która po rozmowie ze mna stwierdziła , ze nie ma sie czego obawiać i objawów anoreksji nie mam .",POZ,nie@2=ODW,reszta_A,NEU,41,0,0,1,True
 s00150,"A Sp . z o . o . , czyli spadkobiercom właścicieli .",NEU,,reszta_A,NEU,13,0,0,0,False
@@ -217,7 +217,7 @@ s00214,Było to trochę uciążliwe .,NEG,trochę=OSL,reszta_A,NEG,5,0,1,0,True
 s00215,"Brak zadowolenia ze spotkania tłumaczyła m sobie swoimi wysokimi wymaganiami , dopóki nie trafiła m na innego specjalistę , który od "" a "" do "" z "" wytłumaczył z czym się to wszystko je i dlaczego może być tak , a nie inaczej .",NEG,nie=ODW;wszystko=WZM;może=OSL;nie@2=ODW,reszta_A,NEG,45,1,1,2,True
 s00216,Dla aktywnych Silownia oraz Spa .,POZ,,reszta_A,POZ,6,0,0,0,False
 s00217,"Łóżka wygodne , łazienka ładnie zrobiona .",POZ,ładnie=WZM,reszta_A,POZ,7,1,0,0,True
-s00218,Na kręgielni sfatygowany tor - caly czas ściągalo kule na lewa strone - nie dało się grac .,NEG,cały czas=WZM;nie=ODW,reszta_A,NEG,18,0,0,1,True
+s00218,Na kręgielni sfatygowany tor - caly czas ściągalo kule na lewa strone - nie dało się grac .,NEG,caly czas=WZM;nie=ODW,reszta_A,NEG,18,2,0,1,True
 s00219,Pewnie tam wrócę .,POZ,Pewnie=OSL,reszta_A,POZ,4,0,1,0,True
 s00220,Fakt sprzątane co dziennie ale luksusu nie ma .,AMB,nie=ODW,reszta_A,AMB,9,0,0,1,True
 s00221,Nie przeczytała m jeszcze całości ale książka zachęca do dalszego czytania .,POZ,Nie=ODW;jeszcze=OSL,reszta_A,POZ,12,0,1,1,True
@@ -493,16 +493,16 @@ s00490,"„ Rynek europejski stał się ofiarą permanentnej restrukturyzacji , 
 s00491,Recepcjonista z rękami w kieszeniach,NEG,,reszta_C,NEG,5,0,0,0,False
 s00492,Cena adekwatna do warunków .,NEU,,reszta_C,AMB,5,0,0,0,False
 s00493,"Polecam osobom , które cenią profesjonalizm .",POZ,,reszta_C,POZ,7,0,0,0,False
-s00494,"Wychodząc z gabinetu nie czuła m się zbyt dobrze i miała m poczucie , że raczej nie będę chciałą kontynuować .",NEG,"zbyt=OSL, raczej=OSL",reszta_C,NEG,21,0,0,0,False
+s00494,"Wychodząc z gabinetu nie czuła m się zbyt dobrze i miała m poczucie , że raczej nie będę chciałą kontynuować .",NEG,zbyt=OSL; raczej=OSL,reszta_C,NEG,21,0,2,0,True
 s00495,Radio FM na zintegrowanej antenie nie działa poprawnie .,NEG,,reszta_C,NEG,9,0,0,0,False
 s00496,"Teraz , po kilkunastu miesiącach leczenia ( i psychoterapii ) , zakończył em leczenie u Pani Doktor .",NEU,,reszta_C,NEU,18,0,0,0,False
-s00497,"Może po prostu ma inne podłoże : ) Cena trochę za wysoka jak za 15 - minutową wizytę , której efektów nie jestem do końca pewna .",NEG,"trochę=OSL, do końca=OSL",reszta_C,AMB,27,0,0,0,False
+s00497,"Może po prostu ma inne podłoże : ) Cena trochę za wysoka jak za 15 - minutową wizytę , której efektów nie jestem do końca pewna .",NEG,trochę=OSL; do końca=OSL,reszta_C,AMB,27,0,3,0,True
 s00498,Leżaki nad morzem po 7 Euro .,NEU,,reszta_C,NEG,7,0,0,0,False
 s00499,"Hotel położony jest niedaleko większej miejscowości Rethymnon ( którą warto odwiedzić ) , można się tam dostać autobusem komunikacji miejskiej .",POZ,,reszta_C,NEU,21,0,0,0,False
 s00500,"Dr Sopylo jest miłym człowiekiem , bada delikatnie , wysłuchuje cierpliwie i sporo tłumaczy .",POZ,sporo=WZM,reszta_C,POZ,15,1,0,0,True
 s00501,Wizyta kosztowała 170zl i trwała 3 minuty .,NEU,,reszta_C,NEG,8,0,0,0,False
 s00502,"Bylam na połówkowym u Doktora wczoraj ( pakiet Medicover ) Niby specjalista dobry , wszystko co sie należalo sprawdzil ale straszny mruk , ciezko doslyszec co mowi .",NEG,,reszta_C,AMB,28,0,0,0,False
-s00503,Pobyt całkiem miły a obiekt dla osób o mało wygórowanych oczekiwaniach .,POZ,"całkiem=OSL, mało=OSL",reszta_C,AMB,12,0,0,0,False
+s00503,Pobyt całkiem miły a obiekt dla osób o mało wygórowanych oczekiwaniach .,POZ,całkiem=OSL; mało=OSL,reszta_C,AMB,12,0,2,0,True
 s00504,Obsługa bardzo pomocna i uprzejma .,POZ,bardzo=WZM,reszta_C,POZ,6,1,0,0,True
 s00505,Moja usługa została profesjonalnie poprowadzona dzięki stronie internetowej i wskazówkach w niej zawartych .,POZ,,reszta_C,POZ,14,0,0,0,False
 s00506,A o zwykly rachunek trzeba sie prosic bo hotel nie ma w zwyczaju wydawac rachunku .,NEG,,reszta_C,NEG,16,0,0,0,False

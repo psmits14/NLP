@@ -18,6 +18,9 @@ env/
 # Environment / secrets
 .env
 
+# Embedding models (pretrained downloads and trained models, several GB)
+modele/
+
 # Documents
 *.pdf
 
